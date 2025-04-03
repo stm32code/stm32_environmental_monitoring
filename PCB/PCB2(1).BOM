@@ -1,0 +1,32 @@
+Bill of Material for 
+On 2023/8/24 at 22:47:47
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 10K                 AXIAL0.3         1    R5                           电阻                   
+ 330R                AXIAL0.3         4    R1, R2, R3, R6               电阻                   
+ 330欧                AXIAL0.3         1    R7                           电阻                   
+ 5V4相                SIP5             1    DJ1                                               
+ BELL                bell             1    b1                                                
+ CK                  ESP-01S          1    3                                                 
+ CON4                JW01             1    J2                                                
+ CON4                SIP4             1    J3                                                
+ CON5                SIP5             1    BH1                                               
+ CON6                SIP6             1    J1                                                
+ DC                  DC3.5-1.3        1    D1                                                
+ DHT11               DHT11            1    U1                                                
+ DS18B20             DS18B20          1    DS1                                               
+ KEY                 KeyA             4    K1, K2, K3, K4                                    
+ NB                  M5310A           1    4                                                 
+ NPN                 S9013            4    Q1, Q2, Q3, Q4                                    
+ OLED屏幕              OLED             1    4                                                 
+ SD                  SIP4             2    SD1, SD2                                          
+ SGP30               SGP30            1    M1                                                
+ ULN2003             ULN2003          1    ULN1                                              
+ 干电池                 BT               1    BT1                          Battery              
+ 光敏电阻                GM_R             1    R4                                                
+ 核心板                 C8T6核心板          1    C1                                                
+ 继电器                 5继电器             3    JDQ1, JDQ2, JDQ3                                  
+ 排扇                  SIP2             1    1                                                 
+ 水泵                  SIP2             2    2, 5                                              
+ 照明灯                 LED - duplicate1    1    DS2                          Typical RED, GREEN, YELLOW, AMBER GaAs LED 
